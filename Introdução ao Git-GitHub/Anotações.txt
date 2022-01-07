@@ -2,3 +2,21 @@ Link para Download do Git: https://git-scm.com/
 
 O Git Bash é um terminal extendido para otimizar o uso do Git
 
+cd = navegar entre pastas
+cd .. = retroceder
+mkdir = criar pastas
+del/rmdir = deletar pastas/arquivos
+criar arquivos = echo
+TAB = auto completa
+git init = inicia o versionamento
+git add = add arquivos para versionar
+git commit = inicia o repositório
+git commit -m ""
+git config --global user.email ""
+git config --global user.name ""
+git status = indica se o arquivo está untraked, modified ou staged
+git push origin master/main = colocar ou atualizar os arquivos que estão no GitHub
+ls = listar pastas/arquivos
+git clone = clonar um repositório
+
+
